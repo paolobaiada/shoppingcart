@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "price": 1000,
+        "image": "/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Camera",
+        "price": 900,
+        "image": "/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 200,
+        "image": "/3.jpg"
+    }
+   
+]
+
